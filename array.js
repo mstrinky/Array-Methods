@@ -32,3 +32,14 @@ console.log(joinig);
 const arr7 = ['a','b','c','d','e','f'];
 const slicing = arr7.slice(2 , 4);
 console.log(slicing);
+
+// method of indesOf 
+const arr8 = ['a','b','c','d','e'];
+const getIndexOf = arr8.indexOf('c');
+console.log(getIndexOf);
+
+// method of includes 
+const arr9 = ['a','b','c'];
+const getIncludes = arr9.includes('c');
+console.log(getIncludes);
+
