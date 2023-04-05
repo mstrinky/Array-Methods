@@ -43,3 +43,6 @@ const arr9 = ['a','b','c'];
 const getIncludes = arr9.includes('c');
 console.log(getIncludes);
 
+const arr10 = [3,5,6,8];
+const getFind =arr10.find((n)=>n%2===0);
+console.log(getFind);
